@@ -1,0 +1,16 @@
+# Ignore logs
+*.log
+
+# Ignore user data files
+files/
+users.json
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore MacOS misc files
+.DS_Store
+
+# Original file
+banklogin.py
